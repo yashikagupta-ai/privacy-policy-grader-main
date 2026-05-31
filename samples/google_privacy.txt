@@ -1,0 +1,98 @@
+Google Privacy Policy (Condensed Sample for Offline Demo)
+Last updated: January 22, 2024
+
+INTRODUCTION
+When you use our services, you're trusting us with your information. We understand this is a big responsibility and work hard to protect your information and put you in control.
+
+This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can update, manage, export, and delete your information.
+
+INFORMATION GOOGLE COLLECTS
+We collect information to provide better services to all our users.
+
+Things you create or provide to us:
+When you create a Google Account, you provide us with personal information that includes your name and a password. You can also choose to add a phone number or payment information to your account.
+
+Information we collect as you use our services:
+Your apps, browsers, and devices: We collect information about the apps, browsers, and devices you use to access Google services, which helps us provide features like automatic product updates and dimming your screen if your battery runs low.
+
+Your activity: We collect information about your activity in our services, which we use to do things like recommend a YouTube video you might like. The activity information we collect may include terms you search for, videos you watch, views and interactions with content and ads, voice and audio information when you use audio features, purchase activity, people with whom you communicate or share content, activity on third-party sites and apps that use our services, and Chrome browsing history you've synced with your Google Account.
+
+Your location information: We collect location information when you use our services, which helps us offer features like driving directions for your weekend getaway or show times for movies playing near you. Your location can be determined by GPS, IP address, sensor data from your device, and information about things near your device such as Wi-Fi access points, cell towers, and Bluetooth-enabled devices.
+
+Information from partner sources: We may also collect information about you from our partners. For example, advertisers share information with us to measure ad performance or show you more relevant ads. We get information from the businesses and other partners whose services you use, such as those that sell or deliver products and services, process transactions, or provide technical support.
+
+INFORMATION COLLECTED FROM YOUR DEVICE
+We collect device-specific information such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number. Google may associate your device identifiers or phone number with your Google Account.
+
+We may collect and process information about the actual location of your device when you use certain location-enabled Google services. We use various technologies to determine location, including IP address, GPS, and other sensors that may, for example, provide Google with information on nearby devices, Wi-Fi access points, and cell towers.
+
+WHY GOOGLE COLLECTS DATA
+We use the information we collect from all our services for the following purposes:
+- Providing, maintaining, and improving our services
+- Developing new services
+- Providing personalized services, including content and ads
+- Measuring performance
+- Communicating with you
+- Protecting Google and our users
+
+We may combine the information we collect among our services and across your devices. If you're signed in to your Google Account, we may attribute the information we collect to your account and treat it as personal information.
+
+INFORMATION GOOGLE SHARES
+We do not share personal information with companies, organizations, and individuals outside of Google except in the following cases:
+- With your consent
+- With domain administrators (for Google Workspace accounts)
+- For external processing: We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
+- For legal reasons: We will share personal information with companies, organizations, or individuals outside of Google if we have a good-faith belief that access, use, preservation, or disclosure of the information is reasonably necessary to meet any applicable law, regulation, legal process, or enforceable governmental request.
+
+THIRD PARTY SHARING
+We may share non-personally identifiable information publicly and with our partners — like publishers, advertisers, developers, or rights holders. For example, we share information publicly to show trends about the general use of our services. We also allow specific partners to collect information from your browser or device for advertising and measurement purposes using their own cookies or similar technologies.
+
+YOUR DATA, YOUR CONTROLS
+
+Accessing and updating your personal information:
+You can access and update some of your personal information through your Account settings. You can also access and edit your profile information, including your name, email address, phone number, and photo.
+
+Exporting your data:
+You can export a copy of content in your Google Account if you want to back it up or use it with a service outside of Google. You can use Google Takeout to download your data.
+
+Deleting your information:
+To delete your information, you can:
+- Delete your content from specific Google services
+- Search for and then delete specific items from your account using My Activity
+- Download, delete, or make plans for your data
+- Delete specific Google products, including your information associated with those products
+- Delete your entire Google Account and all your data
+
+You can also request that Google delete your personal data, and we will comply within applicable legal timeframes.
+
+DATA RETENTION
+We retain the data we collect for different periods of time depending on what it is, how we use it, and how you configure your settings:
+- Some data you can delete whenever you like, such as the content you create or upload.
+- Other data is deleted or anonymized automatically after a set period of time.
+- Some data we retain until you delete your Google Account, such as information about how often you use our services.
+- And some data we retain for longer periods of time when necessary for legitimate business or legal purposes.
+
+USER RIGHTS
+You have certain rights in relation to your personal data. Specifically, you have the right to:
+- Access your personal data
+- Correct inaccurate personal data
+- Request erasure of your personal data where there is no good reason for us to continue processing it
+- Object to processing of your personal data
+- Request restriction of processing of your personal data
+- Request transfer of your personal data in a machine-readable format (right to data portability)
+- Withdraw your consent at any time
+
+COMPLIANCE
+Google complies with the EU-US Data Privacy Framework (EU-US DPF) and the UK Extension to the EU-US DPF, and the Swiss-US Data Privacy Framework (Swiss-US DPF). Google is subject to the investigatory and enforcement powers of the US Federal Trade Commission (FTC).
+
+For users in the European Economic Area (EEA) and Switzerland, Google LLC acts as a data controller. For Google Workspace accounts, the domain administrator is the data controller and Google processes personal data as a data processor.
+
+California Privacy Rights: If you are a California resident, the California Consumer Privacy Act (CCPA) provides you with specific rights regarding your personal information. You may submit a request to exercise these rights by visiting our privacy controls.
+
+SECURITY
+We build security into our services from the start. All Google products are built with strong security features that continuously protect your information. The insights we gain from maintaining our services help us detect and automatically block security threats from ever reaching you.
+
+We encrypt your data in transit. Data on Google's servers is encrypted at rest. We also offer services like Google's Advanced Protection Program for those most at risk of targeted attacks.
+
+CONTACT
+You can contact Google's Data Protection Officer by emailing dpo@google.com. Our offices are located at Google LLC, 1600 Amphitheatre Parkway, Mountain View, California 94043, USA.

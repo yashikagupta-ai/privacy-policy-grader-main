@@ -1,0 +1,138 @@
+SimpleCo Privacy Policy (Model Policy — Clean Example for Offline Demo)
+Last Updated: March 15, 2024
+Effective Date: March 15, 2024
+
+INTRODUCTION
+
+SimpleCo ("we", "us", or "our") is committed to protecting your privacy. This Privacy Policy explains exactly what personal data we collect, why we collect it, who we share it with, and what rights you have over your data.
+
+We have written this policy in plain English, avoiding legal jargon wherever possible. If you have any questions, please contact us at privacy@simpleco.example.com.
+
+1. WHAT DATA WE COLLECT
+
+We collect only the minimum data necessary to provide our service.
+
+Data you give us directly:
+- Full name — to personalize your account and correspondence
+- Email address — to send account confirmations and product updates
+- Password (stored as a bcrypt hash, never in plain text) — for authentication
+- Billing address — to process payments and comply with tax law
+
+Data we collect automatically when you use SimpleCo:
+- IP address — used solely for security and fraud prevention; deleted after 30 days
+- Browser type and operating system — to ensure our interface displays correctly
+- Pages visited and time spent — aggregated analytics only; no individual tracking
+
+Data we do NOT collect:
+- We do not collect location data beyond your country (for tax purposes)
+- We do not collect biometric data
+- We do not build behavioral profiles for advertising
+- We do not use third-party advertising trackers
+
+2. WHY WE COLLECT YOUR DATA (AND THE LEGAL BASIS)
+
+Under GDPR, we must have a legal basis for processing your data:
+
+| Purpose | Legal Basis | Retention Period |
+|---------|-------------|-----------------|
+| Running your account | Contract | Until account deletion + 30 days |
+| Sending transactional emails | Contract | Until account deletion |
+| Fraud prevention | Legitimate Interest | 12 months |
+| Anonymised usage analytics | Legitimate Interest | 24 months |
+| Tax compliance | Legal Obligation | 7 years |
+
+We do not use your data for purposes other than those listed above. We will ask for your consent before using it for anything new.
+
+3. WHO WE SHARE YOUR DATA WITH
+
+We share your data with as few third parties as possible. Below is the complete list:
+
+| Service Provider | Purpose | Data Shared | Opt-Out |
+|-----------------|---------|-------------|---------|
+| Stripe Inc. | Payment processing | Name, billing address, payment card | No (required for service) |
+| Amazon Web Services | Cloud hosting | All account data (encrypted at rest) | No (required for service) |
+| Mailgun | Transactional email | Name, email address | No (required for service) |
+
+We do NOT sell, rent, or trade your personal data with any party for commercial or marketing purposes.
+
+We do not share your data with advertising networks, data brokers, or analytics companies that track users across sites.
+
+If we are required to disclose your data by law (e.g., a court order or regulatory request), we will notify you in advance unless legally prohibited from doing so.
+
+4. YOUR RIGHTS
+
+Under GDPR (EU/EEA users) and CCPA (California users), you have the following rights:
+
+Right to Access: Request a complete copy of all personal data we hold about you. We will respond within 30 days.
+
+Right to Correction (Rectification): If any data we hold about you is inaccurate or incomplete, you may ask us to correct it at any time through your account settings.
+
+Right to Deletion (Erasure): You may request that we delete all personal data we hold about you. We will comply within 30 days, subject to legal obligations (e.g., tax records must be retained for 7 years).
+
+Right to Data Portability: You may download all your data in JSON format from your Account Settings → Export My Data at any time.
+
+Right to Object: You may object to processing based on legitimate interest at any time by emailing privacy@simpleco.example.com. We will assess and respond within 14 days.
+
+Right to Withdraw Consent: Where processing is based on consent, you may withdraw it at any time without affecting the lawfulness of processing before withdrawal.
+
+Right to Lodge a Complaint: If you are unhappy with how we handle your data, you have the right to lodge a complaint with your local data protection authority.
+
+How to exercise your rights: Email privacy@simpleco.example.com or use the tools in Account Settings → Privacy. We will respond within 30 days at no charge.
+
+5. DATA RETENTION
+
+We keep your personal data only as long as necessary:
+- Account data: retained until you delete your account, then purged within 30 days
+- Payment records: retained for 7 years (legal obligation)
+- Security logs: retained for 12 months, then deleted
+- Anonymised analytics: retained for 24 months, then deleted
+
+6. SECURITY
+
+We take security seriously and implement the following measures:
+- All data is encrypted in transit using TLS 1.3
+- All data is encrypted at rest using AES-256
+- Passwords are hashed using bcrypt with a cost factor of 12
+- We conduct annual third-party security audits
+- Two-factor authentication (2FA) is available and recommended
+- We will notify you within 72 hours if we become aware of a data breach that affects your data
+
+7. COOKIES
+
+We use only strictly necessary cookies. We do not use advertising or tracking cookies.
+
+Strictly Necessary Cookies (cannot be disabled):
+- session_id: Keeps you logged in. Expires after 24 hours of inactivity.
+- csrf_token: Protects against cross-site request forgery attacks.
+
+We do not use Google Analytics, Facebook Pixel, or any other third-party tracking technology.
+
+8. CHILDREN'S PRIVACY
+
+Our service is not directed at children under 13. We do not knowingly collect personal data from children. If we discover we have collected data from a child under 13, we will delete it immediately. If you believe a child has provided us their data, please contact privacy@simpleco.example.com.
+
+We comply with the Children's Online Privacy Protection Act (COPPA) and will obtain verifiable parental consent before collecting any data from users under 13.
+
+9. INTERNATIONAL TRANSFERS
+
+SimpleCo is based in the United States. If you are in the EU/EEA, your data is transferred to the US under the EU-US Data Privacy Framework (DPF), to which SimpleCo has certified.
+
+Our cloud provider (Amazon Web Services) uses Standard Contractual Clauses (SCCs) for all data transfers outside the EEA.
+
+10. CHANGES TO THIS POLICY
+
+If we make material changes to this policy, we will:
+- Notify you by email at least 30 days before the change takes effect
+- Display a prominent banner on our website
+- Require you to acknowledge the new policy before continuing to use the service
+
+Minor changes (typo fixes, clarifications) will be posted with an updated "Last Updated" date.
+
+11. CONTACT US
+
+Data Controller: SimpleCo Inc., 123 Main Street, Austin, TX 78701
+Privacy Team: privacy@simpleco.example.com
+Data Protection Officer: dpo@simpleco.example.com
+Response time: Within 5 business days (always within 30 days for formal requests)
+
+We are committed to working with you to achieve a fair resolution of any privacy concern.

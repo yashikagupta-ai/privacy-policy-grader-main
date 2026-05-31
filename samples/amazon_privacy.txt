@@ -1,0 +1,113 @@
+Amazon Privacy Notice (Condensed Sample for Offline Demo)
+Last updated: October 2023
+
+We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. By visiting Amazon.com, you are accepting the practices described in this Privacy Notice.
+
+WHAT PERSONAL INFORMATION ABOUT CUSTOMERS DOES AMAZON COLLECT?
+
+We collect your personal information in order to provide and continually improve our products and services.
+
+Here are the types of personal information we collect:
+- Information You Give Us: We receive and store any information you provide in relation to Amazon Services. You can choose not to provide certain information, but then you might not be able to take advantage of many of our Amazon Services. Examples: name, address, phone numbers, and credit card.
+- Automatic Information: We automatically collect and store certain types of information about your use of Amazon Services, including information about your interaction with products, content, and services available through Amazon Services. Like many websites, we use "cookies" and other unique identifiers, and we obtain certain types of information when your web browser or device accesses Amazon Services and other content served by or on behalf of Amazon on other websites. Our physical stores may use cameras, computer vision, sensors, and other technology to gather information about your activity in the store, such as the products you interact with.
+- Information from Other Sources: We might receive information about you from other sources, such as updated delivery and address information from our carriers, which we use to correct our records and deliver your next purchase more easily; account information, purchase and redemption information, and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising, or other services; information about your interactions with products and services offered by our subsidiaries; and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers.
+
+Alexa and Other Amazon Devices: When you use Amazon devices or Alexa Voice Services, we process your voice and other inputs to respond to your requests, improve our services, and develop new features and products. Voice recordings may be stored to improve our voice recognition technology. You can review and delete your voice recordings in your Alexa app.
+
+WHAT ABOUT COOKIES?
+Cookies allow us to recognize your browser or device and to remember certain information. We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction.
+
+Advertising Cookies: We use your purchase and browsing activities to show you relevant ads both on and off Amazon. Our advertising partners use cookies to collect information about your activities on our site and other sites to provide you with targeted advertisements.
+
+FOR WHAT PURPOSES DOES AMAZON USE YOUR PERSONAL INFORMATION?
+
+We use your personal information to operate, provide, develop, and improve the products and services that we offer our customers. These purposes include:
+- Purchase and delivery of products and services
+- Provide, troubleshoot, and improve Amazon Services
+- Recommendations and personalization
+- Comply with legal obligations
+- Communicate with you
+- Advertising
+- Fraud Prevention and Credit Risks: We use personal information to prevent and detect fraud and abuse
+
+DOES AMAZON SHARE YOUR PERSONAL INFORMATION?
+
+Information about our customers is an important part of our business, and we are not in the business of selling our customers' personal information to others. We share customers' personal information only as described below:
+
+Transactions involving Third Parties: We make available to you services, products, applications, or skills provided by third parties for use on or through Amazon Services. We may share information related to your transactions with those third parties and their service providers.
+
+Third-Party Service Providers: We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders for products or services, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service.
+
+Business Transfers: As we continue to develop our business, we might sell or buy other businesses or services. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice.
+
+Law Enforcement: We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of Amazon, our users, or others.
+
+HOW SECURE IS INFORMATION ABOUT ME?
+
+We work to protect the security of your information during transmission by using Secure Socket Layer (SSL) software, which encrypts information you input. We maintain physical, electronic, and procedural safeguards in connection with the collection, storage, and disclosure of personal customer information.
+
+YOUR CHOICES
+
+If you want to browse our website without linking the browsing history to your account, you may do so by logging out of your account.
+
+You may also adjust your Advertising Preferences, Cookie Preferences, and Communication Preferences from your account settings.
+
+California Consumer Privacy Act (CCPA): California residents have specific rights under the CCPA, including the right to know what personal information is collected, the right to delete personal information, and the right to opt-out of the sale of personal information. Amazon does not sell your personal information.
+
+GDPR: If you are based in the EU/EEA, you have additional rights including the right to access, rectification, erasure, portability, restriction, and objection. Amazon EU SARL, 38 avenue John F. Kennedy, L-1855 Luxembourg, is the data controller for personal data of EU customers.
+
+CHILDREN
+Amazon Services are not directed to children. We do not knowingly collect personal information from children under 13 without parental consent, in accordance with the Children's Online Privacy Protection Act (COPPA).
+
+CONTACT INFORMATION
+Amazon.com, Inc., 410 Terry Avenue North, Seattle, WA 98109-5210
+
+INFORMATION SHARING AND DISCLOSURE
+
+Amazon does not sell, trade, or rent your personal information to third parties. However, we share certain information as described in this policy.
+
+Third-Party Service Providers: We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analysing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. These third-party service providers have access to personal information needed to perform their functions, but may not use it for other purposes. Further, they must process that personal information in accordance with this Privacy Notice and as permitted by applicable data protection law.
+
+Advertising and Interest-Based Advertising: Amazon may share information with advertising companies to show you relevant ads on and off Amazon. This includes device identifiers, browsing activity, and purchase history. You may opt out of interest-based advertising by visiting our Advertising Preferences page. Note that you will still see generic advertisements.
+
+Business Transfers: As we continue to develop our business, we might sell or buy other businesses or services. In such transactions, customer information may be one of the transferred business assets. In the event that Amazon or substantially all of its assets are acquired, your information will of course be one of the transferred assets.
+
+Law Enforcement and Legal Process: Amazon may release account and other personal information when we believe release is appropriate to comply with the law, including laws outside your country of residence; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of Amazon, our users, or others.
+
+COOKIES AND OTHER TRACKING TECHNOLOGIES
+
+To enable our systems to recognise your browser or device and to provide and improve Amazon Services, we use cookies and other identifiers. We use cookies, pixels, and other technologies (collectively "cookies") to recognise your browser or device, learn more about your interests, and provide you with essential features and services and for additional purposes, including:
+
+- Recognising you when you sign in to our services
+- Keeping track of items you put in your shopping basket
+- Conducting research and diagnostics to improve our content, products, and services
+- Preventing fraudulent activity
+- Improving security
+- Delivering content, including advertisements, relevant to your interests on Amazon sites and third-party sites (see Interest-Based Advertising above)
+- Reporting (which allows us to measure and analyse the performance of our services)
+
+CHILDREN'S PRIVACY
+
+Amazon does not knowingly collect or solicit personal information from children under the age of 13, or the applicable age of digital consent in your country. If we learn that we have collected personal information from a child under 13 (or the applicable age of digital consent), we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact our customer service. We do not knowingly market to children, and no portion of our Services is directed to children under 13.
+
+CALIFORNIA CONSUMER PRIVACY ACT (CCPA)
+
+If you are a California resident, you have certain rights under the California Consumer Privacy Act ("CCPA"), including the California Privacy Rights Act ("CPRA"), regarding your personal information. This section supplements the information in our Privacy Notice and applies solely to residents of California.
+
+Categories of Personal Information We Collect: We collect the following categories of personal information: identifiers (name, email, IP address, device IDs); commercial information (purchase history, products considered); internet activity (browsing history, search history, interactions with our services); geolocation data; audio and visual information; and inferences drawn from this information to create profiles.
+
+Your California Rights: As a California resident, you have the right to: (1) know what personal information we collect, use, disclose, and sell; (2) delete personal information we collect; (3) opt out of the sale or sharing of personal information; (4) correct inaccurate personal information; and (5) non-discrimination for exercising your privacy rights.
+
+To exercise these rights, please visit our California Privacy Notice page or contact our customer service team at privacy@amazon.com.
+
+GENERAL DATA PROTECTION REGULATION (GDPR)
+
+If you are located in the European Economic Area (EEA), the United Kingdom, or Switzerland, the following additional information applies. Amazon EU Sarl, Amazon Services Europe Sarl, and Amazon Media EU Sarl, each with registered offices at 38 avenue John F. Kennedy, L-1855 Luxembourg, are joint data controllers responsible for your personal information when you use Amazon's European services.
+
+Lawful Bases for Processing: We process your personal information on the following legal bases: performance of a contract (to fulfil your orders); legitimate interests (to improve our services, prevent fraud, and send personalised recommendations); consent (for optional marketing communications and certain cookies); and compliance with legal obligations.
+
+Your GDPR Rights: You have the right to access, rectify, erase, restrict, or port your personal data. You also have the right to object to processing based on legitimate interests, and the right to withdraw consent at any time. To exercise these rights, visit your Account Settings or contact our Data Protection Officer at dpo@amazon.co.uk. You also have the right to lodge a complaint with your local supervisory authority.
+
+DATA RETENTION
+
+We retain your personal information for as long as is necessary to provide Amazon Services, comply with our legal obligations, resolve disputes, and enforce our agreements. The criteria used to determine our retention periods include: the length of time we have an ongoing relationship with you; whether there is a legal obligation to retain; or whether retention is advisable in light of our legal position (such as in regard to applicable statutes of limitations, litigation, or regulatory investigations).

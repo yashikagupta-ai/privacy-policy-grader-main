@@ -1,0 +1,97 @@
+Facebook / Meta Privacy Policy (Expanded Sample for Offline Demo)
+Effective: January 1, 2023
+
+By using or accessing the Meta Products, you agree to this policy. We wrote this policy to help you understand what information we collect, how we use it and what choices you have about it. Because we are an internet company, some of the concepts below are a little technical, but we have tried our best to explain things in a simple and clear way. We welcome your questions and comments on this policy.
+
+PART 1: WHAT INFORMATION DO WE COLLECT?
+
+We collect information in a few different ways:
+
+1. Information You Provide
+When you sign up for or use our Products, you voluntarily share certain information including:
+- Account information: your name, email address, password, phone number, and date of birth.
+- Content you create: posts, photos, videos, messages, and comments you share. This includes the metadata associated with your content, such as the date a file was created or the location where a photo was taken.
+- Contacts and connections: we collect information about the people, Pages, accounts, hashtags and groups you are connected to and how you interact with them across our Products, such as people you communicate with the most or groups you are part of.
+- Payment information: if you use our Products for purchases or other financial transactions (such as when you make a purchase in a game or make a donation), we collect information about the purchase or transaction. This includes payment information, such as your credit or debit card number and other card information; other account and authentication information; and billing, shipping and contact details.
+- Communications with Meta: when you contact us for support or communicate with us in any other way, we collect the information you volunteer.
+
+2. Information We Collect Automatically
+We also collect information about how you use our Products and the devices you use to access them. This includes:
+- Your activity: we collect information about how you use our Products, such as the types of content you view or engage with; the features you use; the actions you take; the people or accounts you interact with; and the time, frequency and duration of your activities. For example, we log when you're using and have last used our Products, and what posts, videos and other content you view on our Products. We also collect information about how you use features like our camera.
+- Device information: we collect information from and about the computers, phones, connected TVs and other web-connected devices you use that integrate with our Products, and we combine this information across different devices you use. For example, we use information collected about your use of our Products on your phone to better personalize the content (including ads) or features you see when you use our Products on another device, such as your laptop or tablet, or to measure whether you took an action in response to an ad we showed you on your phone on a different device.
+  - Information we obtain from these devices includes:
+    - Device attributes: information such as the operating system, hardware and software versions, battery level, signal strength, available storage space, browser type, app and file names and types, and plugins.
+    - Device operations: information about operations and behaviors performed on the device, such as whether a window is foregrounded or backgrounded, or mouse movements (which can help distinguish humans from bots).
+    - Identifiers: unique identifiers, device IDs, and other identifiers, such as from games, apps or accounts you use, and Family Device IDs (or other identifiers unique to Meta Company Products associated with the same device or account).
+    - Device signals: Bluetooth signals, and information about nearby Wi-Fi access points, beacons, and cell towers.
+    - Data from device settings: information you allow us to receive through device settings you turn on, such as access to your GPS location, camera or photos.
+    - Network and connections: information such as the name of your mobile operator or ISP, language, time zone, mobile phone number, IP address, connection speed and, in some cases, information about other devices that are nearby or on your network, so we can do things like help you stream a video from your phone to your TV.
+- Cookie data: data from cookies stored on your device, including cookie IDs and settings. Learn more about how we use cookies in the Meta Cookies Policy.
+
+3. Information from Third-Party Partners
+We receive information from third-party partners and combine it with information we have about you. Advertisers, app developers, and publishers can send us information through Meta Business Tools they use, including our social plug-ins (such as the Like button), Meta Login, our APIs and SDKs, or the Meta Pixel. These partners provide information about your activities off our Products—including information about your device, websites you visit, purchases you make, the ads you see, and how you use their services—whether or not you have a Facebook account or are logged into our Products.
+
+PART 2: WHY DO WE COLLECT THIS INFORMATION?
+
+We use the information we have (subject to choices you make) as described below and to provide and support the Meta Products and related services.
+
+Provide, personalise and improve our Products.
+We use the information we have to deliver our Products, including to personalise features and content (including your News Feed, Instagram Feed, Instagram Stories and ads) and make suggestions for you (such as groups or events you may be interested in or topics you may want to follow) on and off our Products. To create personalised Products that are unique and relevant to you, we use your connections, preferences, interests and activities based on the data we collect and learn from you and others (including any data with special protections you choose to provide); how you use and interact with our Products; and the people, places, or things you're connected to and interested in on and off our Products.
+
+Provide personalised advertising.
+We use the information we have about you-including information about your interests, actions and connections-to select and personalise ads, offers and other sponsored content that we show you.
+
+Promote safety, integrity and security.
+We use the information we have to verify accounts and activity, combat harmful conduct, detect and prevent spam and other bad experiences, maintain the integrity of our Products, and promote safety and security on and off of Meta Products. For example, we use data we have to investigate suspicious activity or violations of our terms or policies, or to detect when someone needs help.
+
+Communicate with you.
+We use the information we have to send you marketing communications, communicate with you about our Products, and let you know about our policies and terms. We also use your information to respond to you when you contact us.
+
+Research and innovate for social good.
+We use the information we have (including from research partners we collaborate with) to conduct and support research and innovation on topics of general social welfare, technological advancement, public interest, health and well-being.
+
+PART 3: HOW IS YOUR INFORMATION SHARED?
+
+Sharing on Meta Products
+People and accounts you share and communicate with: When you share and communicate using our Products, you choose the audience for what you share. For example, when you post on Facebook, you select the audience for the post, such as a group, all of your friends, the public, or a customised list of people.
+Public information can be seen by anyone, on or off our Products, including if they don't have an account.
+
+Sharing with Third-Party Partners
+We work with third-party partners who help us provide and improve our Products or who use Meta Business Tools to grow their businesses, which makes it possible to operate our companies and provide free services to people around the world. We don't sell any of your information to anyone, and we never will. We also impose strict restrictions on how our partners can use and disclose the data we provide.
+
+Types of Third Parties we share with:
+- Advertisers and Measurement Partners: We provide advertisers with reports about the kinds of people seeing their ads and how their ads are performing, but we don't share information that personally identifies you (information such as your name or email address that by itself can be used to contact you or identifies who you are) unless you give us permission.
+- Partners offering goods and services in our Products: When you subscribe to receive premium content, or buy something from a seller in our Products, the content creator or seller can receive your public information and other information you share with them, as well as the information needed to complete the transaction, including shipping and contact details.
+- Vendors and service providers: We provide information and content to vendors and service providers who support our business, such as by providing technical infrastructure services, analysing how our Products are used, providing customer service, facilitating payments or conducting surveys.
+
+PART 4: YOUR CONTROLS AND CHOICES
+
+We give you the ability to access, rectify, port and erase your data.
+- Access Your Information: You can access some of the information we have about you in your settings. You can also request a copy of your information through our Download Your Information tool.
+- Deletion: You can delete your account at any time. When you delete your account, we delete things you have posted, such as your photos and status updates, and you won't be able to recover that information later. Keep in mind that information that others have shared about you is not part of your account and will not be deleted when you delete your account.
+- Opt-Out of Personalised Ads: You can opt out of certain ad targeting through your Ad Preferences. However, you will still see ads — they may just be less relevant to you.
+
+PART 5: DATA RETENTION, TRANSFERS AND SECURITY
+
+Data Retention
+We keep information as long as we need it to provide our Products, comply with legal obligations, or protect our or others' interests. We decide how long we need information on a case-by-case basis. Some data you can delete whenever you like, some data is deleted automatically, and some data we retain for longer periods of time when necessary.
+
+Data Transfers
+We share information globally, both internally within the Meta Companies, and externally with our partners and with those you connect and share with around the world in accordance with this policy. Your information may, for example, be transferred or transmitted to, or stored and processed in the United States or other countries outside of where you live for the purposes as described in this policy.
+
+Security
+We work hard to protect you and your information from unauthorized access, alteration, disclosure, or destruction. We have teams dedicated to keeping your data safe and secure, and we employ a variety of security measures, including encryption and authentication tools.
+
+PART 6: OUR LEGAL BASES AND CONTACT INFORMATION
+
+We rely on a number of legal bases to collect, use and share the information we have about you, including: your consent; as necessary to fulfill our Terms of Service; as necessary to comply with our legal obligations; to protect your vital interests, or those of others; and as necessary for our (or others') legitimate interests.
+
+If you have questions about this policy, you can contact us as described below. We may resolve disputes you have with us in connection with our privacy policies and practices.
+
+You can contact us online or by mail at:
+Meta Platforms, Inc.
+Attention: Privacy Operations
+1601 Willow Road
+Menlo Park, California 94025
+
+Data Protection Officer: You can contact our Data Protection Officer at dpo@meta.com.

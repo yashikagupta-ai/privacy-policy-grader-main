@@ -1,0 +1,44 @@
+# Environment — NEVER commit real keys
+.env
+*.env.*
+!.env.example
+
+# Python bytecode
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Database files — contains real user data
+*.db
+*.sqlite
+*.sqlite3
+backend/privacy_grader.db
+backend/instance/
+
+# Test / coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Node (if any tooling added)
+node_modules/
+dist/
+build/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/

@@ -1,0 +1,11 @@
+policy_name,source_url,expert_grade,expert_score,system_grade,system_score,agrees,notes
+Google Privacy Policy,https://policies.google.com/privacy,B,78,B,76,yes,"Clear data categories but vague legitimate-interest clause"
+Apple Privacy Policy,https://www.apple.com/legal/privacy/en-ww/,A,88,A,85,yes,"Minimal data collection; strong user controls"
+Facebook/Meta Privacy Policy,https://www.facebook.com/privacy/policy/,D,52,D,50,yes,"Extensive data sharing; vague consent mechanism"
+WhatsApp Privacy Policy,https://www.whatsapp.com/legal/privacy-policy,C,65,C,63,yes,"Shares data with Meta; limited standalone controls"
+GitHub Privacy Policy,https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement,A,90,A,88,yes,"Transparent; strong user-rights section; GDPR compliant"
+OpenAI Privacy Policy,https://openai.com/policies/row-privacy-policy/,B,75,B,72,yes,"Training data use could be clearer"
+TikTok Privacy Policy,https://www.tiktok.com/legal/page/us/privacy-policy/en,D,48,F,44,no,"Expert allows partial credit for CCPA notice; system more strict"
+Spotify Privacy Policy,https://www.spotify.com/us/legal/privacy-policy/,B,77,B,75,yes,"Good transparency; behavioral profiling not fully disclosed"
+Zoom Privacy Policy,https://explore.zoom.us/en/privacy/,C,68,C,66,yes,"Improved post-2020 but still vague on sub-processors"
+Twitter/X Privacy Policy,https://twitter.com/en/privacy,D,55,D,52,yes,"Advertising data use extensive; user rights section thin"
