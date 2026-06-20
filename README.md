@@ -13,7 +13,7 @@
 
 ---
 
-**Privacy Policy Grader** Please check this is the updated github, https://github.com/yashikagupta-ai/PrivacyPolicy-Grader, here is the live link https://yashikagupta-ai.github.io/PrivacyPolicy-Grader/
+**Privacy Policy Grader** Please check this updated github, https://github.com/yashikagupta-ai/PrivacyPolicy-Grader, here is the live link https://yashikagupta-ai.github.io/PrivacyPolicy-Grader/
 This is an AI-powered web application that analyses any company's privacy policy and gives it a transparent, reproducible score from 0–100 — breaking down exactly how well (or how poorly) they handle your data.
 
 Paste a URL. Get a grade. Understand your rights.
